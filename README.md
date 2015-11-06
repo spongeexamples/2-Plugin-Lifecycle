@@ -1,4 +1,4 @@
 Basic Plugin
 ======
 
-The most basic Sponge plugin.
+Explains the lifecycle stages of a plugin.
