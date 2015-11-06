@@ -1,4 +1,4 @@
 Basic Plugin
 ======
 
-Explains the lifecycle stages of a plugin.
+Explains all the lifecycle steps of a plugin.
