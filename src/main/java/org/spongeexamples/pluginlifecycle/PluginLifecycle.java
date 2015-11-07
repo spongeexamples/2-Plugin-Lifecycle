@@ -39,4 +39,13 @@ public class PluginLifecycle {
         // During this stage, the plugin can register create new worlds.
     }
 
+    @Listener
+    public void serverStopping(GameStoppingServerEvent event) {
+       // During this stage, the plugin can store its data to disk.
+    }
+
+    /*
+     * There are other events that you can find in GameState enum class
+     */
+
 }
